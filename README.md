@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @rottenBeetle
+- 👋 Hi, I'm Sergey Shitov
 - 👀 I am interested in Java back-end development
 - 🌱 I've been studying Java for a year and a half
 - 💞 ️ I'm looking for any opportunity to work
