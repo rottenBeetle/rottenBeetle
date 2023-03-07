@@ -1,9 +1,9 @@
-<h1 align="center">Java junior developer</h1>
+<h1 align="center">Java developer</h1>
 <p align="center">
 - 👋 Hi, I'm Sergey Shitov<br>
 - 👀 I am interested in Java back-end development<br>
-- 🌱 I've been studying Java for a year and a half<br>
-- 💞 ️ I'm looking for any opportunity to work<br>
+- 🌱 I have been working with Java for 2 years now<br>
+- 💞 ️I'm looking for any opportunity to work<br>
 - 📫 Contact me: serodjashitov@yandex.ru<br>
 </p>
 <div align="center">
