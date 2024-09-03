@@ -7,7 +7,7 @@
 - 📫 Contact me: serodjashitov@yandex.ru<br>
 </p>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/93596353/204898054-40a6414d-88ad-4554-931c-c5ba0785bcf6.png" />
+<img src="https://github.com/user-attachments/assets/c648d4d4-8502-4126-872c-6513be2c5cf5" />
 </div>
 
 
